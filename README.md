@@ -108,16 +108,6 @@ Solana/Anchor 独立审计 · 1 Critical + 6 High 已修复
 </tr>
 </table>
 
-## 🛡 Open for Work: Solana/Anchor Security Audit
-
-> 独立 Solana/Anchor 合约安全审计 · 正在接单 · 中英文报告
-> **Available for Solana/Anchor smart-contract audits — fixed-price, fast turnaround, bilingual reports.**
-
-- **战绩**：审计供应链金融协议，发现 **1 Critical + 6 High**（init 升级权限劫持 / 捐赠拉高价格抽干 / timelock 后门），全部修复复测，集成测试 46 → 66 全绿
-- **定价**：Light $300–800 · Standard $800–2,500 · Deep $2,500–6,000（固定价；收到代码 48h 内先报 Critical/High）
-- **流程**：范围确认 → 审计 → 修复复测 → 报告（默认保密，公开需你同意）
-- **联系**：GitHub [sudorm-rf0](https://github.com/sudorm-rf0) · 报告样例见下方卡片
-
 ---
 
 ## 🐍 Contribution Snake
