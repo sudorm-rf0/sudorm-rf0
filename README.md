@@ -10,6 +10,12 @@
 
 ---
 
+## 🔗 DFRChain
+
+Research notes and perspectives on cross-chain interoperability infrastructure — [dfrchain.com](https://dfrchain.com/) · Industry notes: [DFR Dispatch](https://news.dfrchain.com/)
+
+---
+
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white)
